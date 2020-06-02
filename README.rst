@@ -19,7 +19,7 @@ weather-station
 Weather station application using OpenWeather and Python
 
 
-* Free software: GNU General Public License v3
+* Free software: GNU Affero General Public License v3
 * Documentation: https://weather-station.readthedocs.io.
 
 
